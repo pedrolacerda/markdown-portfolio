@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Soccer
+* Beer
+* Netflix
+* Chocolat
+  1. Dark chocolate
+  2. White chocolate
+  3. Regualar chocolate
